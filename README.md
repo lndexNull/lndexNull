@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lndexNull
+- 👀 I’m interested in ... well ... games and stuff
+- 🌱 I’m currently learning .Net Core 
+- 📫 How to reach me ... you'll know how if i want to recieve messages
